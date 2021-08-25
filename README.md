@@ -1,13 +1,9 @@
 ## Olá! eu sou Luiz Felipe Dinis Fernandes👋
 
 
-
-Here are some ideas to get you started:
-
-
 - 🌱  faculdade: Ciencia da Computação 6 semestre
-- ⚡  cursos: javaScript node.js
-
+- ⚡  cursos: javaScript 
+- ⚡  cursos: node.js
 
 <div>
  
@@ -35,8 +31,5 @@ Here are some ideas to get you started:
  <a href = "https://mail.google.com/mail/u/0/#inbox"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/luiz-felipe-dinis-fernandes-42aa33198/" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_dracula"></a> 
   <a href = "https://web.telegram.org/z/#1000674792" target="_blank"><img src='https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white' target="_blank"></a>
-
-
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
   
 </div>
